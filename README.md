@@ -7,6 +7,7 @@ docker build -t r12525072/2025cloud:v3 .
 
 ## Run Docker Container
 docker run -p 8888:80 r12525072/2025cloud:v3
+
 Login : http://localhost:8888
 
 
