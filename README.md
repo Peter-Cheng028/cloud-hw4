@@ -19,7 +19,7 @@ Login : http://localhost:8888
 
 ### 自動化流程設計
 
-```mermaid
+```
     A[Push or PR 事件觸發 GitHub Actions] --> B[檢出原始碼]
     B --> C[登入 Docker Hub]
     C --> D[建構 Docker Image]
