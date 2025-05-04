@@ -40,7 +40,7 @@ Login : http://localhost:8888
 - `pull_request`：
   - 僅建構，不推送（用於測試 Dockerfile 是否破壞）
 
-### 工作流程檔（workflow）
+### Workflow
 
 位於 `.github/workflows/docker-build.yml`，觸發條件如下：
 
